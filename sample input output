@@ -1,0 +1,13 @@
+
+Sample Input:
+No input required.
+
+Sample Output:
+Implicit Casting: 85
+Explicit Casting: 87
+Student Percentage: 85%
+Student result is displayed.
+Teacher cannot be cast to Student.
+Updated College Fee: 6000
+Student ID variable address: (memory address)
+Reinterpreted value: A
